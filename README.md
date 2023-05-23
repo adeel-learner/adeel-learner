@@ -1,6 +1,6 @@
-### It's AI/ML Engineer here 👋
+### Hi There 👋 I am an AI/ML Engineer
 
-Here are some ideas to get you started:
+Here is some basic intro of myself:
 
 - 🔭 I’m currently working on **computer vision**
 - 🌱 I’m currently learning **Data science and NLP**
