@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
     LinkedIn - [@i-am-adeel-waheed](https://www.linkedin.com/in/i-am-adeel-waheed/)
     Facebook - [@itsadeelwaheed](https://www.facebook.com/itsadeelwaheed/)
+    Youtube - [@adeel-waheed](https://www.youtube.com/channel/UClalYDig8dXfvzeF_CngEnQ)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love Sleep
 - 
