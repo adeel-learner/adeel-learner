@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**adeel-maker/adeel-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### It's AI/ML Engineer here 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on computer vision
+- 🌱 I’m currently learning Data science and NLP
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with Data science and NLP roadmap
+- 💬 Ask me about AI/ML
+- 📫 How to reach me: LinkIn @i-am-adeel-waheed Facebook @itsadeelwaheed
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Love Sleep
+- 
