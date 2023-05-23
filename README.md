@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Data science and NLP roadmap
 - 💬 Ask me about AI/ML
-- 📫 How to reach me: LinkIn @i-am-adeel-waheed Facebook @itsadeelwaheed
+- 📫 How to reach me:
+    LinkedIn - [@i-am-adeel-waheed](https://www.linkedin.com/in/i-am-adeel-waheed/)
+    Facebook - [@itsadeelwaheed](https://www.facebook.com/itsadeelwaheed/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love Sleep
 - 
