@@ -2,9 +2,9 @@
 
 Here is some basic intro of myself:
 
-- 🔭 I’m currently working on **computer vision**
-- 🌱 I’m currently learning **Data science and NLP**
-- 👯 I’m looking to collaborate on **Youtube**
+- 🔭 I’m currently working on **Generative AI**
+- 🌱 I’m currently learning **Data science, NLP and LLMs**
+- 👯 I’m looking to collaborate on **Youtube, LinkedIn, Discord**
 - 🤔 I’m looking for help with **Data science and NLP roadmap**
 - 💬 Ask me about **AI/ML**
 - 📫 How to reach me:
