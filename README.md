@@ -1,11 +1,12 @@
 ### Hi There 👋 I am an AI/ML Engineer
 
-Here is some basic intro of myself:
+Here is a basic intro of myself:
 
-- 🔭 I’m currently working on **Generative AI**
-- 🌱 I’m currently learning **Data science, NLP and LLMs**
-- 👯 I’m looking to collaborate on **Youtube, LinkedIn, Discord**
-- 🤔 I’m looking for help with **Data science and NLP roadmap**
+- 💼 I have experience of more than three years in the field of **AI/ML**
+- 🔭 I’m currently working on **NLP, LLMs, Generative AI**
+- 🌱 I’m a passionate learner of **Computer vision, Data Science, NLP and LLMs**
+- 👯 We can collaborate on **Youtube, LinkedIn, Discord**
+- 🤔 I would appreciate any guidance/help with **Computer Data science and NLP roadmap**
 - 💬 Ask me about **AI/ML**
 - 📫 How to reach me:
      [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/i-am-adeel-waheed/) 
